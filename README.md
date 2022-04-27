@@ -2,4 +2,4 @@
 Aulas de Probabilidade e estatística
 
 
-Todo mundo pode ir atualizando o repositório... Bom pra ter uma experiência GIT.
+Todo mundo atualiza todo mundo usa...
